@@ -1,0 +1,14 @@
+room:
+  name: Pitch Court
+  description: Auto-bridged from Pitch Court Telegram channel Pitch Court
+  bridge: Pitch Court Telegram
+  channel_type: channel_private
+  read_visibility: public
+  write_visibility: public
+  agents:
+  - builder
+  - judge
+  - skeptic
+  users:
+  - dbj_11
+  - lalitvk18
